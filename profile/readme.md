@@ -1,6 +1,6 @@
 
 
-<a href="https://site-mentoria-tech.vercel.app/" target="_blank"><img alt="Mt Banner" src="src/template%20slides.png"></a>
+<a href="https://site-mentoria-tech.vercel.app/" target="_blank"><img alt="Mt Banner" src="profile/src/template slides.png"></a>
 
 # Mentoria Tech
 
